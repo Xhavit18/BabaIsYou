@@ -1,0 +1,82 @@
+Flag 9 5
+Flag 9 4
+Flag 9 3
+Flag 9 2 
+
+Flag 8 5
+Flag 7 5
+Flag 6 5
+Flag 5 5
+
+Flag 5 6
+Flag 5 7
+Flag 5 8
+Flag 5 9
+
+Flag 6 9
+Flag 7 9
+Flag 8 9
+Flag 9 9
+
+Flag 9 10
+Flag 9 11
+Flag 9 12
+Flag 9 13
+Flag 9 14
+Flag 9 15
+
+Flag 10 15
+Flag 11 15
+Flag 12 15
+Flag 13 15
+Flag 13 14
+Flag 14 14
+Flag 15 14
+
+Flag 16 14
+Flag 16 13
+Flag 16 12
+Flag 16 11
+Flag 16 10
+Flag 16 9
+
+Flag 15 9
+Flag 14 9
+Flag 13 9
+Flag 12 9
+Flag 11 9
+Flag 10 9
+
+Flag 16 8
+Flag 16 7
+Flag 16 6
+Flag 16 5
+Flag 16 4
+Flag 16 3
+Flag 16 2
+
+Flag 10 1
+Flag 11 1
+Flag 12 1
+Flag 13 1
+Flag 14 1
+Flag 15 1
+
+Flag 9 1
+Flag 16 1
+
+Wall 14 12
+
+Message
+
+Wall 6 11
+Is 6 12
+You 6 13
+
+Flag 11 11
+Is 11 12
+Stop 11 13
+
+Baba 7 7
+Is 11 3
+Win 14 5

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="BabaIsYou" default="main" basedir=".">
+	
+	<description>Build for Baba Is You.</description>
+	
+    <!-- Sets variables which will be used. -->
+    <property name="src.dir" location="src" />
+    <property name="build.dir" location="classes" />
+    <property name="lib.dir" location="lib" />
+    <property name="doc.dir" location="docs/doc" />
+	
+	<!-- To avoid a "includeantruntime was not set" warning -->
+	<presetdef name="javac">
+	    <javac includeantruntime="false" />
+	  </presetdef>
+	
+    <path id="build-classpath">
+        <fileset dir="${lib.dir}">
+            <include name="zen5.jar" />
+        </fileset>
+    </path>
+	
+    <!-- Deletes the existing build -->
+    <target name="clean">
+        <delete dir="${build.dir}/fr"/>
+        <delete dir="${build.dir}/Images"/>
+    </target>
+	
+    <!-- Compiles the java code -->
+    <target name="compile" depends="clean">
+    	<mkdir dir="${build.dir}" />
+        <javac srcdir="${src.dir}" destdir="${build.dir}">
+            <classpath refid="build-classpath" />
+        </javac>
+    </target>
+	
+    <!-- Creates Javadoc -->
+    <target name="javadoc" depends="compile">
+    	<delete dir="${doc.dir}" />
+    	<mkdir dir="${doc.dir}" />
+        <javadoc packagenames="src" sourcepath="${src.dir}" destdir="${doc.dir}">
+            <classpath refid="build-classpath" />
+            <fileset dir="${src.dir}/fr/umlv/BabaIsYou">
+                <include name="**" />
+            </fileset>
+        </javadoc>
+    </target>
+	
+    <!--Creates the jar file  -->
+    <target name="jar" depends="compile">
+        <jar destfile="baba.jar" basedir="${build.dir}">
+            <zipgroupfileset dir="${lib.dir}" includes="**/*.jar" />
+            <manifest>
+                <attribute name="Main-Class" value="fr.umlv.BabaIsYou.Main" />
+                <attribute name="Build-Path" value="${build-classpath}" />
+            </manifest>
+        </jar>
+    </target>
+    	
+    <target name="main" depends="compile, jar">
+        <description>Main target</description>
+    </target>
+
+</project>

@@ -1,0 +1,85 @@
+
+Flag 11 7
+
+Wall 9 5
+Wall 9 4
+Wall 9 3
+Wall 9 2 
+
+Wall 8 5
+Wall 7 5
+Wall 6 5
+Wall 5 5
+
+Wall 5 6
+Wall 5 7
+Wall 5 8
+Wall 5 9
+
+Wall 6 9
+Wall 7 9
+Wall 8 9
+Wall 9 9
+
+Wall 9 10
+Wall 9 11
+Wall 9 12
+Wall 9 13
+Wall 9 14
+Wall 9 15
+
+Wall 10 15
+Wall 11 15
+Wall 12 15
+Wall 13 15
+Wall 14 15
+Wall 15 15
+Wall 16 15
+
+Wall 16 14
+Wall 16 13
+Wall 16 12
+Wall 16 11
+Wall 16 10
+Wall 16 9
+
+Wall 15 9
+Wall 14 9
+Wall 13 9
+Wall 12 9
+Wall 11 9
+Wall 10 9
+
+Wall 16 8
+Wall 16 7
+Wall 16 6
+Wall 16 5
+Wall 16 4
+Wall 16 3
+Wall 16 2
+
+Wall 10 1
+Wall 11 1
+Wall 12 1
+Wall 13 1
+Wall 14 1
+Wall 15 1
+
+Wall 9 1
+Wall 16 1
+
+Baba 14 12
+
+Message
+
+Baba 6 11
+Is 6 12
+You 6 13
+
+Wall 11 11
+Is 11 12
+Stop 11 13
+
+Flag 7 7
+Is 11 3
+Win 14 5

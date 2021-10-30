@@ -1,0 +1,255 @@
+
+Lava 3 0
+Lava 4 0
+Lava 0 1
+Lava 1 1
+Lava 2 1
+Lava 3 1
+Lava 0 2
+Lava 1 2
+Lava 0 3
+
+Wall 6 0
+Wall 6 1
+Wall 6 2
+Wall 6 3
+Wall 6 4
+Wall 6 5
+Wall 6 6
+Wall 6 7
+Wall 7 4
+
+Wall 7 6
+Wall 8 6
+Wall 9 6
+Wall 10 6
+Wall 11 6
+Wall 12 6
+Wall 8 7
+
+Wall 11 4
+Wall 12 4
+Wall 12 3
+Wall 12 2
+Wall 12 0
+
+Wall 13 3
+Wall 14 3
+Wall 15 3
+Wall 16 3
+
+Wall 16 2
+Wall 16 1
+Wall 16 0
+
+Wall 7 12
+Wall 7 13
+Wall 7 14
+Wall 7 15
+
+Wall 8 13
+Wall 9 13
+Wall 10 13
+
+Wall 8 15
+Wall 9 15
+Wall 10 15
+
+Wall 11 12
+Wall 11 13
+Wall 11 14
+Wall 11 15
+
+Lava 32 15
+Lava 31 16
+Lava 32 16
+Lava 30 17
+Lava 31 17
+Lava 32 17
+
+
+
+
+
+
+Lava 11 17
+Lava 12 17
+Lava 13 17
+Lava 14 17
+Lava 15 17
+Lava 16 17
+Lava 17 17
+Lava 18 17
+
+Lava 12 16
+Lava 13 16
+Lava 14 16
+Lava 15 16
+Lava 16 16
+Lava 17 16
+Lava 18 16
+
+Lava 13 15
+Lava 14 15
+Lava 15 15
+Lava 16 15
+Lava 17 15
+Lava 18 15
+Lava 19 15
+
+Lava 14 14
+Lava 15 14
+Lava 16 14
+Lava 17 14
+Lava 18 14
+Lava 19 14
+
+Lava 14 13
+Lava 15 13
+Lava 16 13
+Lava 17 13
+Lava 18 13
+Lava 19 13
+Lava 20 13
+
+Lava 15 12
+Lava 16 12
+Lava 17 12
+Lava 18 12
+Lava 19 12
+Lava 20 12
+Lava 21 12
+
+Lava 15 11
+Lava 16 11
+Lava 17 11
+Lava 18 11
+Lava 19 11
+Lava 20 11
+Lava 21 11
+
+Lava 16 10
+Lava 17 10
+Lava 18 10
+Lava 19 10
+Lava 20 10
+Lava 21 10
+Lava 22 10
+
+Lava 16 9
+Lava 17 9
+Lava 18 9
+Lava 19 9
+Lava 20 9
+Lava 21 9
+Lava 22 9
+
+Lava 17 8
+Lava 18 8
+Lava 19 8
+Lava 20 8
+Lava 21 8
+Lava 22 8
+Lava 23 8
+
+Lava 17 7
+Lava 18 7
+Lava 19 7
+Lava 20 7
+Lava 21 7
+Lava 22 7
+Lava 23 7
+
+Lava 17 6
+Lava 18 6
+Lava 19 6
+Lava 20 6
+Lava 21 6
+Lava 22 6
+Lava 23 6
+
+Lava 18 5
+Lava 19 5
+Lava 20 5
+Lava 21 5
+Lava 22 5
+Lava 23 5
+Lava 24 5
+
+Lava 18 4
+Lava 19 4
+Lava 20 4
+Lava 21 4
+Lava 22 4
+Lava 23 4
+Lava 24 4
+
+Lava 18 3
+Lava 19 3
+Lava 20 3
+Lava 21 3
+Lava 22 3
+Lava 23 3
+Lava 24 3
+Lava 25 3
+
+Lava 19 2
+Lava 20 2
+Lava 21 2
+Lava 22 2
+Lava 23 2
+Lava 24 2
+Lava 25 2
+
+Lava 19 1
+Lava 20 1
+Lava 21 1
+Lava 22 1
+Lava 23 1
+Lava 24 1
+Lava 25 1
+Lava 26 1
+
+Lava 20 0
+Lava 21 0
+Lava 22 0
+Lava 23 0
+Lava 24 0
+Lava 25 0
+Lava 26 0
+Lava 27 0
+
+Flag 26 12
+
+Rock 12 5
+
+Baba 14 1
+
+Message
+
+Flag 27 14
+Is 28 14
+Win 29 14
+
+Baba 8 12
+Is 9 12
+Melt 10 12
+
+Lava 8 14
+Is 9 14
+Hot 10 14
+
+Wall 0 0
+Is 1 0
+Stop 2 0
+
+Baba 8 3
+Is 9 3
+You 10 3
+
+Rock 7 7
+Is 7 8
+Push 7 9
+
+Lava 12 10
+

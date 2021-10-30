@@ -1,0 +1,85 @@
+Rock 6 12
+Rock 6 13
+Rock 6 14
+
+Skull 5 12
+Skull 5 13
+Skull 5 14
+
+Skull 4 14
+Skull 3 14
+
+Skull 3 14
+Skull 3 15
+Skull 3 16
+Skull 3 17
+
+Skull 7 12
+Skull 7 13
+Skull 7 14
+
+Skull 8 14
+Skull 9 14
+
+Skull 9 14
+Skull 9 15
+Skull 9 16
+Skull 9 17
+
+Skull 13 3
+Skull 14 3
+Skull 15 3
+Skull 16 3
+Skull 17 3
+Skull 18 3
+Skull 19 3
+Skull 20 3
+Skull 21 3
+
+Skull 21 4
+Skull 21 5
+Skull 21 6
+Skull 21 7
+Skull 21 8
+Skull 21 9
+Skull 21 10
+Skull 21 11
+
+Skull 20 11
+Skull 19 11
+Skull 18 11
+Skull 17 11
+Skull 16 11
+Skull 15 11
+Skull 14 11
+Skull 13 11
+
+Skull 13 10
+Skull 13 9
+Skull 13 8
+Skull 13 7
+Skull 13 6
+Skull 13 5
+Skull 13 4
+
+Flag 18 9
+
+Baba 6 16
+
+Message
+
+Flag 0 0
+Is 1 0
+Win 2 0
+
+Baba 0 1
+Is 1 1
+You 2 1
+
+Rock 2 9
+Is 3 9
+Push 4 9
+
+Skull 15 5
+Is 15 6
+Defeat 15 7
